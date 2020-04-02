@@ -1,0 +1,14 @@
+.image{
+height: 600px;
+width: 80%;
+margin-left: 80px;
+margin-top: 40px;
+}
+/* .colu{
+    display:block;
+} */
+@media screen and (max-width: 680px) {
+    .colu{
+     display:none;
+    }
+  }
