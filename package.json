@@ -8,7 +8,7 @@
     "@material-ui/lab": "^4.0.0-alpha.45",
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "material-ui-icons": "^1.0.0-beta.36",
     "mdbreact": "^4.25.3",
